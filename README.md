@@ -142,17 +142,23 @@ A full-stack hackathon project exploring conference and event management workflo
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Dashboard
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codebynv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Nirav%27s%20GitHub%20Stats" height="180" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebynv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+<img src="https://img.shields.io/github/stars/codebynv/codebynv?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
+<img src="https://img.shields.io/github/forks/codebynv/codebynv?style=for-the-badge&logo=github&label=Forks" alt="GitHub forks" />
+<img src="https://img.shields.io/github/last-commit/codebynv/codebynv?style=for-the-badge&logo=git&label=Last%20Commit" alt="Last commit" />
+<img src="https://img.shields.io/github/repo-size/codebynv/codebynv?style=for-the-badge&logo=github&label=Profile%20Repo" alt="Repository size" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=codebynv&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+<a href="https://github.com/codebynv?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-7C83FD?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/codebynv?tab=followers"><img src="https://img.shields.io/badge/Followers-Connect-00D9FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebynv&theme=github_dark" width="100%" alt="GitHub profile summary" />
 
 </div>
 
@@ -162,11 +168,13 @@ A full-stack hackathon project exploring conference and event management workflo
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/codebynv/codebynv/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+<img src="https://github.com/codebynv/codebynv/raw/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 
-</div>
+<br><br>
 
 > 🐍 **Keep coding. Keep contributing. Keep the snake moving.**
+
+</div>
 
 ---
 

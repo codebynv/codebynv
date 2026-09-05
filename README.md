@@ -190,27 +190,11 @@ A full-stack hackathon project exploring conference and event management workflo
 
 ## 🎯 2026 Direction
 
-```text
-                ┌────────────────────────────┐
-                │       BUILD THE SKILL      │
-                └──────────────┬─────────────┘
-                               ↓
-             ┌─────────────────┴─────────────────┐
-             ↓                                   ↓
-        🤖 AI / ML                         🌐 WEB / FULL-STACK
-             ↓                                   ↓
-      Learn → Experiment                 Learn → Build
-             ↓                                   ↓
-             └─────────────────┬─────────────────┘
-                               ↓
-                         🚀 REAL PROJECTS
-                               ↓
-                         🏆 HACKATHONS
-                               ↓
-                          📦 SHIP MORE
-```
+<div align="center">
 
-**Goal:** become capable of taking a problem from **idea → architecture → code → working product**.
+<img src="https://github.com/codebynv/codebynv/raw/main/assets/2026-direction.svg" width="100%" alt="codebynv 2026 Direction roadmap" />
+
+</div>
 
 ---
 

@@ -65,23 +65,79 @@ building_style: Learn → Build → Ship → Improve
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,php,html,css&perline=8" alt="Languages" />
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,php,html,css&perline=8" alt="Programming Languages" />
 
-### 🌐 Web & Backend
-<img src="https://skillicons.dev/icons?i=react,nextjs,flask,fastapi,bootstrap,tailwind&perline=8" alt="Web technologies" />
+<br><br>
 
-### 🤖 AI / Data
-<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,opencv&perline=8" alt="AI and data technologies" />
+### 🌐 Frontend & Web
+<img src="https://skillicons.dev/icons?i=react,nextjs,flask,fastapi,bootstrap,tailwind&perline=8" alt="Frontend and Web Technologies" />
 
-### 🗄️ Databases & Tools
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode,vercel,netlify,figma&perline=8" alt="Tools" />
+<br><br>
+
+### ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=flask,fastapi&perline=8" alt="Backend Technologies" />
+
+<br><br>
+
+### 🤖 AI / Machine Learning
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv&perline=8" alt="AI and Machine Learning" />
+
+<br>
+
+<img src="https://img.shields.io/badge/DBSCAN-Clustering-3776AB?style=for-the-badge" alt="DBSCAN" />
+<img src="https://img.shields.io/badge/K--Means-Clustering-FF6F00?style=for-the-badge" alt="K-Means" />
+<img src="https://img.shields.io/badge/SHAP-Explainable%20AI-8E44AD?style=for-the-badge" alt="SHAP" />
+
+<br><br>
+
+### 📊 Data Processing & Analysis
+<img src="https://skillicons.dev/icons?i=numpy,pandas&perline=8" alt="Data Processing Technologies" />
+
+<br>
+
+<img src="https://img.shields.io/badge/NetworkX-Graph%20Analysis-2C3E50?style=for-the-badge" alt="NetworkX" />
+<img src="https://img.shields.io/badge/Plotly-Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Dash" />
+
+<br><br>
+
+### 🔗 Graph, Blockchain & Cybersecurity
+<img src="https://skillicons.dev/icons?i=neo4j&perline=8" alt="Neo4j" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Bitcoin-Transaction%20Analysis-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" />
+<img src="https://img.shields.io/badge/Graph%20Analytics-Network%20Analysis-24292F?style=for-the-badge" alt="Graph Analytics" />
+<img src="https://img.shields.io/badge/Cybersecurity-Digital%20Forensics-0A0A0A?style=for-the-badge" alt="Cybersecurity" />
+
+<br><br>
+
+### 🗄️ Databases & Storage
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,neo4j&perline=8" alt="Databases" />
+
+<br>
+
+<img src="https://img.shields.io/badge/RocksDB-Embedded%20Storage-CC0000?style=for-the-badge" alt="RocksDB" />
+
+<br><br>
+
+### 📈 Visualization & Dashboards
+<img src="https://img.shields.io/badge/Plotly-Visualization-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+<img src="https://img.shields.io/badge/Dash-Interactive%20Dashboards-00A3E0?style=for-the-badge" alt="Dash" />
+
+<br><br>
+
+### 🐧 Operating Systems & Development Tools
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vercel,netlify,figma&perline=8" alt="Development Tools" />
 
 </div>
+
+> **Core technical areas:** Python • Data Processing • Machine Learning • Graph & Network Analysis • Blockchain Analytics • Cybersecurity • Explainable AI • Database Systems • Interactive Dashboards • Linux / Offline Systems
+
 
 ---
 

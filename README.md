@@ -69,90 +69,46 @@ building_style: Learn → Build → Ship → Improve
 
 <div align="center">
 
-### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java&perline=8" alt="Programming Languages" />
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,typescript&perline=10" alt="Languages" />
 
-<br><br>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,bootstrap,tailwind&perline=10" alt="Frontend" />
 
-### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,bootstrap,tailwind&perline=8" alt="Frontend Development" />
-
-<br><br>
-
-### ⚙️ Backend Development & APIs
-<img src="https://skillicons.dev/icons?i=php,nodejs,express,flask,fastapi&perline=8" alt="Backend Development" />
-
+### ⚙️ Backend & APIs
+<img src="https://skillicons.dev/icons?i=php,nodejs,express,flask,fastapi&perline=10" alt="Backend" />
 <br>
+<img src="https://img.shields.io/badge/Odoo-ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/REST-APIs-02569B?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/Odoo-ERP%20Development-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
-<img src="https://img.shields.io/badge/REST-APIs-02569B?style=for-the-badge" alt="REST APIs" />
-
-<br><br>
-
-### 🤖 AI / Machine Learning / Computer Vision
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv&perline=8" alt="AI ML and Computer Vision" />
-
+### 🤖 AI / ML / Data
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv,numpy,pandas&perline=10" alt="AI ML Data" />
 <br>
+<img src="https://img.shields.io/badge/DBSCAN%20%7C%20K--Means-Clustering-3776AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SHAP-Explainable%20AI-8E44AD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NetworkX%20%7C%20Data%20Analysis-Graph%20Analytics-2C3E50?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/DBSCAN-Clustering-3776AB?style=for-the-badge" alt="DBSCAN" />
-<img src="https://img.shields.io/badge/K--Means-Clustering-FF6F00?style=for-the-badge" alt="K-Means" />
-<img src="https://img.shields.io/badge/SHAP-Explainable%20AI-8E44AD?style=for-the-badge" alt="SHAP" />
-
-<br><br>
-
-### 📊 Data Science & Processing
-<img src="https://skillicons.dev/icons?i=numpy,pandas&perline=8" alt="NumPy and Pandas" />
-
+### 🔗 Blockchain / Cybersecurity / Graph
+<img src="https://skillicons.dev/icons?i=neo4j&perline=10" alt="Neo4j" />
 <br>
+<img src="https://img.shields.io/badge/Bitcoin-Transaction%20Analysis-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-Digital%20Forensics-0A0A0A?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/NetworkX-Graph%20Analysis-2C3E50?style=for-the-badge" alt="NetworkX" />
-<img src="https://img.shields.io/badge/Data%20Analysis-Analytics-2C3E50?style=for-the-badge" alt="Data Analysis" />
-
-<br><br>
-
-### 🔗 Graph Technology, Blockchain & Cybersecurity
-<img src="https://skillicons.dev/icons?i=neo4j&perline=8" alt="Neo4j" />
-
+### 🗄️ Databases & SQL
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,oracle,supabase&perline=10" alt="Databases" />
 <br>
+<img src="https://img.shields.io/badge/SQL%20%7C%20PL%2FSQL-Database%20Programming-4479A1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RocksDB-Embedded%20Storage-CC0000?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/Bitcoin-Transaction%20Analysis-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Transaction Analysis" />
-<img src="https://img.shields.io/badge/Graph%20Analytics-Network%20Analysis-24292F?style=for-the-badge" alt="Graph Analytics" />
-<img src="https://img.shields.io/badge/Cybersecurity-Digital%20Forensics-0A0A0A?style=for-the-badge" alt="Cybersecurity" />
-
-<br><br>
-
-### 🗄️ Databases & Storage
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,oracle,supabase&perline=8" alt="Databases and Storage" />
-
+### 📈 Visualization & Tools
+<img src="https://img.shields.io/badge/Plotly%20%7C%20Dash-Visualization-3F4F75?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma,vercel,netlify&perline=10" alt="Tools" />
 <br>
-
-<img src="https://img.shields.io/badge/RocksDB-Embedded%20Storage-CC0000?style=for-the-badge" alt="RocksDB" />
-<img src="https://img.shields.io/badge/Neo4j-Graph%20Database-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
-
-<br><br>
-
-### 🧮 SQL & Database Programming
-<img src="https://img.shields.io/badge/SQL-Database%20Querying-4479A1?style=for-the-badge" alt="SQL" />
-<img src="https://img.shields.io/badge/PL%2FSQL-Oracle%20Programming-F80000?style=for-the-badge" alt="PL/SQL" />
-
-<br><br>
-
-### 📈 Data Visualization & Dashboards
-<img src="https://img.shields.io/badge/Plotly-Visualization-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-<img src="https://img.shields.io/badge/Dash-Interactive%20Dashboards-00A3E0?style=for-the-badge" alt="Dash" />
-
-<br><br>
-
-### 🐧 OS, Developer Tools & Deployment
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vercel,netlify,figma&perline=8" alt="Development Tools" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Environment-Configuration-555555?style=for-the-badge" alt="Environment Configuration" />
+<img src="https://img.shields.io/badge/Environment-Configuration-555555?style=for-the-badge" />
 
 </div>
 
-> **Technical focus:** Full-Stack Development • AI/ML • Data Science • Graph Analytics • Blockchain Analytics • Cybersecurity • Computer Vision • Explainable AI • Database Systems • Interactive Dashboards • Linux / Offline Systems
+> **Focus:** Full-Stack Development • AI/ML • Data Science • Graph Analytics • Blockchain • Cybersecurity • Computer Vision • Databases • Dashboards
 ---
 
 ## 🚀 What I Build

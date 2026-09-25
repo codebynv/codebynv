@@ -80,7 +80,7 @@ building_style: Learn → Build → Ship → Improve
 <br><br>
 
 ### ⚙️ Backend Development & APIs
-<img src="https://skillicons.dev/icons?i=flask,fastapi&perline=8" alt="Backend Development" />
+<img src="https://skillicons.dev/icons?i=php,flask,fastapi&perline=8" alt="Backend Development" />
 
 <br><br>
 

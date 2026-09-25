@@ -75,12 +75,17 @@ building_style: Learn → Build → Ship → Improve
 <br><br>
 
 ### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind&perline=8" alt="Frontend Development" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vite,bootstrap,tailwind&perline=8" alt="Frontend Development" />
 
 <br><br>
 
 ### ⚙️ Backend Development & APIs
-<img src="https://skillicons.dev/icons?i=php,flask,fastapi&perline=8" alt="Backend Development" />
+<img src="https://skillicons.dev/icons?i=php,nodejs,express,flask,fastapi&perline=8" alt="Backend Development" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Odoo-ERP%20Development-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
+<img src="https://img.shields.io/badge/REST-APIs-02569B?style=for-the-badge" alt="REST APIs" />
 
 <br><br>
 
@@ -101,6 +106,7 @@ building_style: Learn → Build → Ship → Improve
 <br>
 
 <img src="https://img.shields.io/badge/NetworkX-Graph%20Analysis-2C3E50?style=for-the-badge" alt="NetworkX" />
+<img src="https://img.shields.io/badge/Data%20Analysis-Analytics-2C3E50?style=for-the-badge" alt="Data Analysis" />
 
 <br><br>
 
@@ -116,11 +122,18 @@ building_style: Learn → Build → Ship → Improve
 <br><br>
 
 ### 🗄️ Databases & Storage
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,neo4j&perline=8" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,oracle,supabase&perline=8" alt="Databases and Storage" />
 
 <br>
 
 <img src="https://img.shields.io/badge/RocksDB-Embedded%20Storage-CC0000?style=for-the-badge" alt="RocksDB" />
+<img src="https://img.shields.io/badge/Neo4j-Graph%20Database-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+
+<br><br>
+
+### 🧮 SQL & Database Programming
+<img src="https://img.shields.io/badge/SQL-Database%20Querying-4479A1?style=for-the-badge" alt="SQL" />
+<img src="https://img.shields.io/badge/PL%2FSQL-Oracle%20Programming-F80000?style=for-the-badge" alt="PL/SQL" />
 
 <br><br>
 
@@ -133,11 +146,13 @@ building_style: Learn → Build → Ship → Improve
 ### 🐧 OS, Developer Tools & Deployment
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vercel,netlify,figma&perline=8" alt="Development Tools" />
 
+<br>
+
+<img src="https://img.shields.io/badge/Environment-Configuration-555555?style=for-the-badge" alt="Environment Configuration" />
+
 </div>
 
 > **Technical focus:** Full-Stack Development • AI/ML • Data Science • Graph Analytics • Blockchain Analytics • Cybersecurity • Computer Vision • Explainable AI • Database Systems • Interactive Dashboards • Linux / Offline Systems
-
-
 ---
 
 ## 🚀 What I Build

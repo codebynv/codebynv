@@ -70,7 +70,7 @@ building_style: Learn → Build → Ship → Improve
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,java&perline=8" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java&perline=8" alt="Programming Languages" />
 
 <br><br>
 

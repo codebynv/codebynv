@@ -70,22 +70,22 @@ building_style: Learn → Build → Ship → Improve
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,php,html,css&perline=8" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,javascript,php&perline=8" alt="Programming Languages" />
 
 <br><br>
 
-### 🌐 Frontend & Web
-<img src="https://skillicons.dev/icons?i=react,nextjs,flask,fastapi,bootstrap,tailwind&perline=8" alt="Frontend and Web Technologies" />
+### 🎨 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,bootstrap,tailwind&perline=8" alt="Frontend Development" />
 
 <br><br>
 
-### ⚙️ Backend & APIs
-<img src="https://skillicons.dev/icons?i=flask,fastapi&perline=8" alt="Backend Technologies" />
+### ⚙️ Backend Development & APIs
+<img src="https://skillicons.dev/icons?i=php,flask,fastapi&perline=8" alt="Backend Development" />
 
 <br><br>
 
-### 🤖 AI / Machine Learning
-<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv&perline=8" alt="AI and Machine Learning" />
+### 🤖 AI / Machine Learning / Computer Vision
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv&perline=8" alt="AI ML and Computer Vision" />
 
 <br>
 
@@ -95,29 +95,28 @@ building_style: Learn → Build → Ship → Improve
 
 <br><br>
 
-### 📊 Data Processing & Analysis
-<img src="https://skillicons.dev/icons?i=numpy,pandas&perline=8" alt="Data Processing Technologies" />
+### 📊 Data Science & Processing
+<img src="https://skillicons.dev/icons?i=numpy,pandas&perline=8" alt="NumPy and Pandas" />
 
 <br>
 
 <img src="https://img.shields.io/badge/NetworkX-Graph%20Analysis-2C3E50?style=for-the-badge" alt="NetworkX" />
-<img src="https://img.shields.io/badge/Plotly-Dash-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Dash" />
 
 <br><br>
 
-### 🔗 Graph, Blockchain & Cybersecurity
+### 🔗 Graph Technology, Blockchain & Cybersecurity
 <img src="https://skillicons.dev/icons?i=neo4j&perline=8" alt="Neo4j" />
 
 <br>
 
-<img src="https://img.shields.io/badge/Bitcoin-Transaction%20Analysis-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin" />
+<img src="https://img.shields.io/badge/Bitcoin-Transaction%20Analysis-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin Transaction Analysis" />
 <img src="https://img.shields.io/badge/Graph%20Analytics-Network%20Analysis-24292F?style=for-the-badge" alt="Graph Analytics" />
 <img src="https://img.shields.io/badge/Cybersecurity-Digital%20Forensics-0A0A0A?style=for-the-badge" alt="Cybersecurity" />
 
 <br><br>
 
 ### 🗄️ Databases & Storage
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,neo4j&perline=8" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,neo4j&perline=8" alt="Databases" />
 
 <br>
 
@@ -125,18 +124,18 @@ building_style: Learn → Build → Ship → Improve
 
 <br><br>
 
-### 📈 Visualization & Dashboards
+### 📈 Data Visualization & Dashboards
 <img src="https://img.shields.io/badge/Plotly-Visualization-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
 <img src="https://img.shields.io/badge/Dash-Interactive%20Dashboards-00A3E0?style=for-the-badge" alt="Dash" />
 
 <br><br>
 
-### 🐧 Operating Systems & Development Tools
+### 🐧 OS, Developer Tools & Deployment
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,vercel,netlify,figma&perline=8" alt="Development Tools" />
 
 </div>
 
-> **Core technical areas:** Python • Data Processing • Machine Learning • Graph & Network Analysis • Blockchain Analytics • Cybersecurity • Explainable AI • Database Systems • Interactive Dashboards • Linux / Offline Systems
+> **Technical focus:** Full-Stack Development • AI/ML • Data Science • Graph Analytics • Blockchain Analytics • Cybersecurity • Computer Vision • Explainable AI • Database Systems • Interactive Dashboards • Linux / Offline Systems
 
 
 ---

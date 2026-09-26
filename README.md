@@ -78,33 +78,33 @@ building_style: Learn → Build → Ship → Improve
 ### ⚙️ Backend & APIs
 <img src="https://skillicons.dev/icons?i=php,nodejs,express,flask,fastapi&perline=10" alt="Backend" />
 <br>
-<img src="https://img.shields.io/badge/Odoo-ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white" />
-<img src="https://img.shields.io/badge/REST-APIs-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Odoo-ERP-7C3AED?style=for-the-badge&logo=odoo&logoColor=white" />
+<img src="https://img.shields.io/badge/REST-APIs-06B6D4?style=for-the-badge" />
 
 ### 🤖 AI / ML / Data
 <img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv,numpy,pandas&perline=10" alt="AI ML Data" />
 <br>
-<img src="https://img.shields.io/badge/DBSCAN%20%7C%20K--Means-Clustering-3776AB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SHAP-Explainable%20AI-8E44AD?style=for-the-badge" />
-<img src="https://img.shields.io/badge/NetworkX%20%7C%20Data%20Analysis-Graph%20Analytics-2C3E50?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DBSCAN%20%7C%20K--Means-Clustering-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SHAP-Explainable%20AI-A855F7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NetworkX%20%7C%20Data%20Analysis-Graph%20Analytics-06B6D4?style=for-the-badge" />
 
 ### 🔗 Blockchain / Cybersecurity / Graph
 <img src="https://skillicons.dev/icons?i=neo4j&perline=10" alt="Neo4j" />
 <br>
-<img src="https://img.shields.io/badge/Bitcoin-Transaction%20Analysis-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
-<img src="https://img.shields.io/badge/Cybersecurity-Digital%20Forensics-0A0A0A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bitcoin-Transaction%20Analysis-22D3EE?style=for-the-badge&logo=bitcoin&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-Digital%20Forensics-111827?style=for-the-badge" />
 
 ### 🗄️ Databases & SQL
 <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,oracle,supabase&perline=10" alt="Databases" />
 <br>
-<img src="https://img.shields.io/badge/SQL%20%7C%20PL%2FSQL-Database%20Programming-4479A1?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RocksDB-Embedded%20Storage-CC0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL%20%7C%20PL%2FSQL-Database%20Programming-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RocksDB-Embedded%20Storage-A855F7?style=for-the-badge" />
 
 ### 📈 Visualization & Tools
-<img src="https://img.shields.io/badge/Plotly%20%7C%20Dash-Visualization-3F4F75?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Plotly%20%7C%20Dash-Visualization-6366F1?style=for-the-badge" />
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,figma,vercel,netlify&perline=10" alt="Tools" />
 <br>
-<img src="https://img.shields.io/badge/Environment-Configuration-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Environment-Configuration-334155?style=for-the-badge" />
 
 </div>
 

@@ -194,7 +194,7 @@ A full-stack hackathon project exploring conference and event management workflo
 
 <div align="center">
 
-<img src="https://github.com/codebynv/codebynv/raw/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/codebynv/codebynv/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 
 <br><br>
 

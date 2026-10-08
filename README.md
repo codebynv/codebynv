@@ -208,7 +208,11 @@ A full-stack hackathon project exploring conference and event management workflo
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codebynv&bg_color=0d1117&color=7c83fd&line=7c83fd&point=ffffff&area=true&hide_border=true&custom_title=Nirav%27s%20Contribution%20Graph" width="100%" alt="Contribution graph" />
+<img src="https://streak-stats.demolab.com?user=codebynv&theme=github-dark&hide_border=true" width="100%" alt="GitHub contribution streak" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebynv&theme=github_dark" width="100%" alt="GitHub contribution activity" />
 
 </div>
 

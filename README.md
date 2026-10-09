@@ -204,15 +204,17 @@ A full-stack hackathon project exploring conference and event management workflo
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Activity & Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=codebynv&theme=github-dark&hide_border=true" width="100%" alt="GitHub contribution streak" />
+<a href="https://github.com/codebynv">
+<img src="https://streak-stats.demolab.com?user=codebynv&theme=github-dark&hide_border=true" width="100%" alt="GitHub contribution streak: total contributions, current streak, and longest streak" />
+</a>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebynv&theme=github_dark" width="100%" alt="GitHub contribution activity" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebynv&theme=github_dark" width="100%" alt="GitHub contribution activity over time" />
 
 </div>
 

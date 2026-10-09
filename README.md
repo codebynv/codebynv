@@ -209,7 +209,7 @@ A full-stack hackathon project exploring conference and event management workflo
 <div align="center">
 
 <a href="https://github.com/codebynv">
-<img src="https://streak-stats.demolab.com?user=codebynv&theme=github-dark&hide_border=true" width="100%" alt="GitHub contribution streak: total contributions, current streak, and longest streak" />
+<img src="https://streak-stats.demolab.com/?user=codebynv&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="100%" alt="GitHub contribution streak: total contributions, current streak, and longest streak" />
 </a>
 
 <br><br>
@@ -260,7 +260,8 @@ A full-stack hackathon project exploring conference and event management workflo
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=codebynv&style=for-the-badge&color=7c83fd&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://github.com/codebynv?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-Explore-7c83fd?style=for-the-badge&logo=github&logoColor=white" alt="Explore public repositories" /></a>
+<a href="https://github.com/codebynv?tab=followers"><img src="https://img.shields.io/github/followers/codebynv?style=for-the-badge&label=Followers&color=0A66C2" alt="GitHub followers" /></a>
 
 </div>
 

@@ -53,15 +53,14 @@ building_style: Learn → Build → Ship → Improve
 
 ---
 
-## 🧠 My Current Focus
+## 🧠 Current Focus
 
-<div align="center">
-
-| 🤖 AI / ML | 🌐 Full-Stack | 🧪 Building | 🏆 Hackathons |
-|:---:|:---:|:---:|:---:|
-| Python • ML • DL | React • JS • APIs | Projects • Experiments | Ideas • Prototypes |
-
-</div>
+| Area | Focus |
+|---|---|
+| **AI / ML** | Python, machine learning fundamentals, computer vision, and data-driven applications |
+| **Full-stack** | React, Next.js, TypeScript, APIs, and database-backed products |
+| **Engineering** | DSA, debugging, testing, clean code, and maintainable project structure |
+| **Building** | Hackathon prototypes, practical tools, and projects that can be demonstrated end to end |
 
 ---
 
@@ -150,21 +149,54 @@ College work, experiments and small builds that strengthen fundamentals.
 
 ---
 
-## ⭐ Featured Builds
+## ⭐ Featured Projects
 
-### 🌍 GlobeTrotter
-A travel-focused application exploring interactive web experiences and practical product development.
+<div align="center">
 
-### 🛠️ GearGuard — Odoo Hackathon
-A hackathon project focused on solving a practical workflow problem with software.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 📊 Innovation Village Dashboard
-An interactive dashboard project focused on presenting information through a clean user interface.
+### 🌍 [GlobeTrotter](https://github.com/codebynv/GlobeTrotter)
 
-### 🗂️ Conference Management Tool
-A full-stack hackathon project exploring conference and event management workflows.
+A travel-planning application built around trips, destinations, activities, and a polished web experience.
 
-> 🔎 More projects, experiments and college work are available across my repositories.
+**Focus:** Full-stack development · TypeScript · Supabase
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ [GearGuard — Odoo Hackathon](https://github.com/codebynv/GearGuard-Odoo-Hackathon)
+
+An equipment and maintenance workflow project focused on operational tracking and preventive maintenance.
+
+**Focus:** Odoo · Python · Business workflows
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Innovation Village Dashboard](https://github.com/codebynv/innovation-village-dashboard)
+
+A dashboard and automation project focused on connecting operational workflows with clear, actionable insights.
+
+**Focus:** Dashboards · Automation · AI workflows
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 [Explore all repositories](https://github.com/codebynv?tab=repositories)
+
+Browse my other projects, coursework, experiments, and ongoing builds.
+
+**Focus:** Learn by building · Iterate · Ship
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -184,7 +216,7 @@ A full-stack hackathon project exploring conference and event management workflo
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codebynv&theme=github_dark" width="100%" alt="GitHub profile summary" />
+<a href="https://github.com/codebynv?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-7C83FD?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
 
 </div>
 

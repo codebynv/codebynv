@@ -220,13 +220,18 @@ A full-stack hackathon project exploring conference and event management workflo
 
 ---
 
-## 🎯 2026 Direction
+## 🎯 2026 Goals
 
-<div align="center">
+| Focus | What I'm working toward |
+|---|---|
+| **Learn** | Strengthen DSA, Python, databases, and core CS fundamentals. |
+| **Build** | Ship useful full-stack and AI/ML projects with clear documentation. |
+| **Contribute** | Make meaningful open-source contributions and participate in code reviews. |
+| **Improve** | Test changes, fix bugs, and maintain projects instead of leaving them unfinished. |
 
-<img src="https://github.com/codebynv/codebynv/raw/main/assets/2026-direction.svg" width="100%" alt="codebynv 2026 Direction roadmap" />
+**My rule for 2026:** learn something → build something → test it → ship it → improve it.
 
-</div>
+I’m prioritizing finished, demonstrable projects over unfinished experiments and activity for its own sake.
 
 ---
 

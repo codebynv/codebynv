@@ -1,12 +1,11 @@
-# Profile Maintenance
+# Profile Maintenance Checklist
 
-Use this checklist when updating the public GitHub profile.
+- [ ] Keep the introduction concise and current.
+- [ ] Feature repositories with clear purpose and real implementation.
+- [ ] Verify project links.
+- [ ] Check externally hosted images and badges.
+- [ ] Avoid duplicated statistics cards.
+- [ ] Keep skills aligned with demonstrated work.
+- [ ] Preview the rendered README after edits.
 
-- [ ] Verify external links.
-- [ ] Verify image and badge URLs.
-- [ ] Keep project descriptions current.
-- [ ] Remove stale or broken sections.
-- [ ] Check the rendered Markdown after edits.
-- [ ] Avoid exposing private information or credentials.
-
-Profile content should communicate current projects and skills clearly without relying on broken external assets.
+Prefer credible evidence of projects and outcomes over decorative metrics.

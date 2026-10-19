@@ -1,0 +1,23 @@
+name: Profile feedback
+description: Report a broken profile link or outdated project detail
+title: "[Profile]: "
+labels: ["documentation"]
+body:
+  - type: textarea
+    id: location
+    attributes:
+      label: Link or section
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What is outdated or broken?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Correct target or supporting evidence
+    validations:
+      required: false
